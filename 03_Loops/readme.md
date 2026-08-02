@@ -9,4 +9,5 @@ This folder contains practice programs based on C++ looping constructs.
 - do...while Loop
 - Nested Loops
 
-## Programs
+## Problems
+- 1. Find 2^n.
