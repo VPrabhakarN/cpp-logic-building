@@ -10,4 +10,4 @@ This folder contains practice programs based on C++ looping constructs.
 - Nested Loops
 
 ## Problems
-- 1. Find 2^n.
+- 1. Find 2^n
