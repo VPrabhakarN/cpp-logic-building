@@ -8,7 +8,7 @@ These exercises are designed to strengthen programming logic and improve underst
 
 ## 📚 Programs
 
-- Program 01 : Initialize and Print Array
+- Program 01 : Initialize and Print Array.
 - Program 02
 - Program 03
 - Program 04
