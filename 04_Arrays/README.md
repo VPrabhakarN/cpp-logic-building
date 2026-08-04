@@ -11,7 +11,7 @@ These exercises are designed to strengthen programming logic and improve underst
 - Program 01 : Initialize and Print Array.
 - Program 02 : Sum of Elements.
 - Program 03 : Find Maximum.
-- Program 04
+- Program 04 : Linear Search.
 - Program 05
 
 ---
