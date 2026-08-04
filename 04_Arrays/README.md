@@ -12,7 +12,7 @@ These exercises are designed to strengthen programming logic and improve underst
 - Program 02 : Sum of Elements.
 - Program 03 : Find Maximum.
 - Program 04 : Linear Search.
-- Program 05
+- Program 05 : Count Occurrences.
 
 ---
 
