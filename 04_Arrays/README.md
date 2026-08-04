@@ -13,6 +13,7 @@ These exercises are designed to strengthen programming logic and improve underst
 - Program 03 : Find Maximum.
 - Program 04 : Linear Search.
 - Program 05 : Count Occurrences.
+- Program 06 : Copy Array.
 
 ---
 
