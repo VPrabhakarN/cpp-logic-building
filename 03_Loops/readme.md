@@ -9,7 +9,7 @@ These exercises are designed to strengthen programming logic and improve underst
 ## 📚 Programs
 
 - Program 01 : Find 2^n.
-- Program 02
+- Program 02 : Print Even Numbers Between 1-20.
 - Program 03
 - Program 04
 - Program 05
