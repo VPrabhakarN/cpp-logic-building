@@ -13,6 +13,7 @@ These exercises are designed to strengthen programming logic and improve underst
 - Program 03 : Sum of N Natural Numbers.
 - Program 04 : Separate Even/Odd Sums.
 - Program 05 : Calculate Factorial Of a Number.
+- Program 06 : Multiplication Table of Number.
 
 ---
 
