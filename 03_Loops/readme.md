@@ -12,7 +12,7 @@ These exercises are designed to strengthen programming logic and improve underst
 - Program 02 : Print Even Numbers Between 1-20.
 - Program 03 : Sum of N Natural Numbers.
 - Program 04 : Separate Even/Odd Sums.
-- Program 05
+- Program 05 : Calculate Factorial Of a Number.
 
 ---
 
