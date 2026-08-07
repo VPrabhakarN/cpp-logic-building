@@ -1,0 +1,20 @@
+# 📂 Functions
+
+Practice programs based on **Function** in C++.
+
+These exercises are designed to strengthen programming logic and improve understanding of function-related concepts through hands-on coding.
+
+---
+
+## 📚 Programs
+
+- Program 01 : 
+- Program 02 : 
+- Program 03 : 
+- Program 04 : 
+- Program 05 : 
+- Program 06 : 
+
+---
+
+Happy Coding! 🚀
