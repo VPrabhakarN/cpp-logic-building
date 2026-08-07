@@ -8,7 +8,7 @@ These exercises are designed to strengthen programming logic and improve underst
 
 ## 📚 Programs
 
-- Program 01 : 
+- Program 01 : Add Two Numbers.
 - Program 02 : 
 - Program 03 : 
 - Program 04 : 
