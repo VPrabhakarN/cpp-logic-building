@@ -10,7 +10,7 @@ These exercises are designed to strengthen programming logic and improve underst
 
 - Program 01 : Add Two Numbers.
 - Program 02 : Value Swap.
-- Program 03 : 
+- Program 03 : Pass Array to Function.
 - Program 04 : 
 - Program 05 : 
 - Program 06 : 
